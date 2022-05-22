@@ -1,0 +1,27 @@
+pdf: CLR_Berlin_Problem_Children\460_06_0157_herbal_cleansing_foam_lotion.pdf
+top_left: (0.07950530035335689, 0.05625)
+bottom_right: (0.8833922261484098, 0.62125)
+
+pdf: CLR_Berlin_Problem_Children\523_07_0925_winter_hair_mask_ow.pdf
+top_left: (0.09187279151943463, 0.065)
+bottom_right: (0.911660777385159, 0.42125)
+
+pdf: CLR_Berlin_Problem_Children\523_09_0928_body_cream_ow.pdf
+top_left: (0.07597173144876325, 0.05375)
+bottom_right: (0.8816254416961131, 0.43)
+
+pdf: CLR_Berlin_Problem_Children/950_009_01_gel_to_milk_facial_cleanser.pdf
+top_left: (0.06623586429725363, 0.05125)
+bottom_right: (0.9289176090468497, 0.4825)
+
+pdf: CLR_Berlin_Problem_Children/950-019-01-creamy-eye-shadow-glamorous-cashmere.pdf
+top_left: (0.10600706713780919, 0.075)
+bottom_right: (0.8833922261484098, 0.68875)
+
+pdf: CLR_Berlin_Problem_Children/950-020-01-ultra-shine-lip-gloss-mauve.pdf
+top_left: (0.10070671378091872, 0.07125)
+bottom_right: (0.872791519434629, 0.5925)
+
+pdf: CLR_Berlin_Problem_Children/lab_formula_inci_supplier_-1-421.001.09-1-probiotic_smart_aging_cream-2017-5-29.pdf
+top_left: (0.0636042402826855, 0.045)
+bottom_right: (0.9346289752650176, 0.45875)
